@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.uob.nxgandroid.devtest",
+            "package_name": "com.app.name",
             "sha256_cert_fingerprints": [
-                "9D:28:94:70:12:13:45:7F:A7:28:9E:0E:6E:5E:D2:87:91:2A:BB:00:67:26:1C:3C:ED:14:FE:D9:1F:0C:B2:25"
+                "9D:28:94:70:12:13:45:7F:D7:28:9E:0E:DE:5E:D2:87:91:2A:BB:00:67:26:1C:3C:ED:14:FE:D9:1F:0C:B2:25"
             ]
         }
     }
